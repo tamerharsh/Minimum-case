@@ -1,7 +1,7 @@
 % zeroes for Minimum case 
 clc; 
 clear all 
-s=tf('s')
+s=tf('s');
 gamma1=0.70;
 gamma2=0.60;
 T1=62;
